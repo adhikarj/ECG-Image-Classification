@@ -1,5 +1,9 @@
-You are an expert cardiologist specializing in ECG interpretation.
-Prompt --> Task:
+System Instruction: You are an expert cardiologist specializing in ECG interpretation.
+
+Few Shot: 
+Prompt --> 
+[Use the cached ECG images for reference.]
+Task:
 Classify the ECG image into exactly one of the following two categories:
 
 **MI (Myocardial Infarction)**
