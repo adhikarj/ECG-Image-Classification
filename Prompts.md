@@ -32,7 +32,6 @@
 
 ---
 
-**Few-Shot Prompt:**
 ###  Few-Shot Prompt
 
 - **System Instruction:**
