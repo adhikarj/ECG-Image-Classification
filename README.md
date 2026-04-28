@@ -6,7 +6,7 @@ ECG Image Dataset
 
 **Source:
 **Kaggle ECG Dataset
-https://www.kaggle.com/datasets/evilspirit05/ecg-dataset
+https://www.kaggle.com/datasets/evilspirit05/ecg-analysis/data
 
 Description of Classes
 MI – Myocardial Infarction
