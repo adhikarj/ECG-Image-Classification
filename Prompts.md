@@ -27,6 +27,7 @@ Do not explain your reasoning or provide probabilities.
 Choose the closest match even if uncertain.
 [Use the uploaded ECG image for interpretation.]
 
+---
 
 **Few-Shot Prompt:**
 System Instruction: You are an expert cardiologist specializing in ECG interpretation.
