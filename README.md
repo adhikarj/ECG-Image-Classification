@@ -1,13 +1,6 @@
 # ECG-Image-Classification
 Extended materials for Myocardial Infarction detection from ECG images using multimodal LLMs.
 
-**Dataset**
-ECG Image Dataset
-
-**Source:
-**Kaggle ECG Dataset
-https://www.kaggle.com/datasets/evilspirit05/ecg-analysis/data
-
 **Reference**: Adhikari, J., Jiang, K., & Bernard, G. R. (2026).
 Same Models, Better Results: Improving Multimodal LLMs’ Accuracy in Identifying Myocardial Infarction from ECG Images.
 Accepted at the International Conference on Artificial Intelligence in Medicine (AIME 2026), Ottawa, Canada.
@@ -156,7 +149,7 @@ https://www.kaggle.com/datasets/evilspirit05/ecg-analysis/data
   - Use the uploaded ECG image and reference examples for interpretation
 
 
----
+
 ## Summary Results
 
 | Model | Scenario | Accuracy | F1 | Sensitivity | Specificity |
@@ -166,11 +159,7 @@ https://www.kaggle.com/datasets/evilspirit05/ecg-analysis/data
 | GPT-4o | 0-shot | 68.86 | 63.73 | 60.67 | 71.70 |
 | GPT-4o | 30-shot | 81.57 | 76.97 | 71.55 | 85.05 |
 
-## Key Observations
-- Few-shot prompting significantly improves performance  
-- GPT-4o achieves the best overall balance  
 
----
 ## Confusion Matrices
 
 **Zero-Shot**:
