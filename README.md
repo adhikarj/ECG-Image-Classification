@@ -73,7 +73,6 @@ https://www.kaggle.com/datasets/evilspirit05/ecg-analysis/data
 ---
 
 ## Notes
-- All ECG images are anonymized  
 - The dataset consists of **12-lead ECG recordings**  
 - ECG images represent electrical activity of the heart rather than anatomical structures
 
