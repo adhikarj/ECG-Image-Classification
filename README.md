@@ -157,7 +157,7 @@ https://www.kaggle.com/datasets/evilspirit05/ecg-analysis/data
 
 
 ---
-### Summary Results
+## Summary Results
 
 | Model | Scenario | Accuracy | F1 | Sensitivity | Specificity |
 |------|----------|---------:|---:|------------:|------------:|
