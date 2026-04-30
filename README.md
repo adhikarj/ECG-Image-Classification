@@ -174,11 +174,12 @@ GPT 4o:
 ---
 **Few-Shot**:
 
-Gemini 2.5 Pro:
+Gemini 2.5 pro: 
 
-<img width="486" height="406" alt="image" src="https://github.com/user-attachments/assets/7b198e4d-087b-465c-83f7-5ced807e85e3" />
+<img width="492" height="408" alt="image" src="https://github.com/user-attachments/assets/6a622c19-e6c7-4c2b-b784-baf88bad57d0" />
 
-GPT 4o:
-<img width="492" height="405" alt="image" src="https://github.com/user-attachments/assets/8accb77d-a892-4b38-8c51-79688273ad85" />
+GPT-4o:
+
+<img width="493" height="408" alt="image" src="https://github.com/user-attachments/assets/4afcfffd-6ba8-47ea-8a85-3bf8227c9ffe" />
 
 ---
