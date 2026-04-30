@@ -173,7 +173,7 @@ https://www.kaggle.com/datasets/evilspirit05/ecg-analysis/data
 ---
 ## Confusion Matrices
 
-###Zero-Shot:
+**Zero-Shot**:
 
 Gemini 2.5 Pro:
 
